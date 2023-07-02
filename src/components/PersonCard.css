@@ -1,0 +1,51 @@
+.div1 {
+  height: 20rem;
+  width: 20%;
+  background-color: white;
+  margin-left: 20px;
+  border-radius: 9px;
+  padding-left: 5rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+  display: flex;
+  box-sizing: border-box;
+  display: block;
+  display: inline-flex;
+  display: inline-block;
+}
+
+.prvi {
+  padding-top: 1rem;
+  padding-right: 10rem;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.div2 {
+  height: 20rem;
+  width: 20%;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+  margin-left: 100px;
+  border-radius: 9px;
+  padding-left: 5rem;
+  display: flex;
+  box-sizing: border-box;
+  display: block;
+  display: inline-flex;
+  display: inline-block;
+}
+
+.div3 {
+  height: 20rem;
+  width: 20%;
+  background-color: white;
+  margin-left: 150px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+  border-radius: 9px;
+  padding-left: 5rem;
+  display: flex;
+  box-sizing: border-box;
+  display: block;
+  display: inline-flex;
+  display: inline-block;
+}
